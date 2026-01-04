@@ -31,7 +31,8 @@ public class AlmondForestRegion extends Region {
         this.addModifiedVanillaOverworldBiomes(mapper, builder -> {
             // Add Almond Forest using ParameterUtils for correct vanilla-compatible parameters
             // These use the exact same parameter points that vanilla uses for forests
-            builder.replaceBiome(Biomes.BIRCH_FOREST, ALMOND_FOREST);
+            // Replace MEADOW - always surface level, never underground
+            builder.replaceBiome(Biomes.MEADOW, ALMOND_FOREST);
         });
     }
 }
