@@ -38,7 +38,9 @@
     [],
     [],
     [],
-    [],
+    [
+      "backrooms_terralith_compat:almond_tree"
+    ],
     []
   ]
 }
