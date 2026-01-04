@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/clfstraight",
+  "textures": {
+    "all": "faithfulbackrooms:block/chainlinkfence2",
+    "particle": "faithfulbackrooms:block/chainlinkfence2",
+    "0": "faithfulbackrooms:block/chainlinkfence2",
+    "missing": "faithfulbackrooms:block/chainlinkfence2"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/officehalfslab",
+  "textures": {
+    "all": "faithfulbackrooms:block/ceilingtilekiur",
+    "particle": "faithfulbackrooms:block/ceilingtilekiur",
+    "0": "faithfulbackrooms:block/plasticcasing"
+  },
+  "render_type": "cutout"
+}

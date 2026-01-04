@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/modernceilinglightbar",
+  "textures": {
+    "all": "faithfulbackrooms:block/modernceilinglight",
+    "particle": "faithfulbackrooms:block/modernceilinglight",
+    "0": "faithfulbackrooms:block/modernceilinglight"
+  },
+  "render_type": "solid"
+}

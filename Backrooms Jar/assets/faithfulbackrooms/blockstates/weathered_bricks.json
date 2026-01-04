@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/weathered_bricks"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/weathered_bricks",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/weathered_bricks",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/weathered_bricks",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "faithfulbackrooms:blocks/dusty_mall_tilings",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "faithfulbackrooms:dusty_mall_tilings"
+        }
+      ]
+    }
+  ]
+}

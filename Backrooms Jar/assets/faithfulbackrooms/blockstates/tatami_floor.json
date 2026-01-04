@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/tatami_floor"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/tatami_floor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/tatami_floor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/tatami_floor",
+      "y": 270
+    }
+  }
+}

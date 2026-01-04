@@ -1,0 +1,7 @@
+{
+  "parent": "faithfulbackrooms:custom/backdollar10",
+  "textures": {
+    "0": "faithfulbackrooms:block/backdollar10",
+    "particle": "faithfulbackrooms:item/backdollar10"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "faithfulbackrooms:blocks/radius_182_tree_gen",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "faithfulbackrooms:radius_182_tree_gen"
+        }
+      ]
+    }
+  ]
+}

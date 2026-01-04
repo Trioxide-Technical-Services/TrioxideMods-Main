@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "faithfulbackrooms:block/dirtyasphalt",
+    "particle": "faithfulbackrooms:block/dirtyasphalt"
+  },
+  "render_type": "solid"
+}

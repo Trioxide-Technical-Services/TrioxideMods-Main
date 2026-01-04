@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/rustyrailing2",
+  "textures": {
+    "all": "faithfulbackrooms:block/rustyrailing1",
+    "particle": "faithfulbackrooms:block/rustyrailing1",
+    "0": "faithfulbackrooms:block/rustyrailing1",
+    "1": "faithfulbackrooms:block/rustyrailing2"
+  },
+  "render_type": "solid"
+}

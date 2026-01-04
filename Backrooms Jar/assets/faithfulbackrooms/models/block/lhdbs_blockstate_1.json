@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/hoteldooropentop",
+  "textures": {
+    "all": "faithfulbackrooms:block/lockedhoteldoor",
+    "particle": "faithfulbackrooms:block/lockedhoteldoor",
+    "0": "faithfulbackrooms:block/lockedhoteldoor"
+  },
+  "render_type": "solid"
+}

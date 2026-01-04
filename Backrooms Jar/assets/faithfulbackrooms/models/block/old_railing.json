@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/railing1",
+  "textures": {
+    "all": "faithfulbackrooms:block/railing1",
+    "particle": "faithfulbackrooms:block/railing1",
+    "0": "faithfulbackrooms:block/railing1"
+  },
+  "render_type": "cutout_mipped"
+}

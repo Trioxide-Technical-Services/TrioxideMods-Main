@@ -1,0 +1,67 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.arcademachine1",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [8, 0, -8],
+					"cubes": [
+						{
+							"origin": [-8, 0, -6],
+							"size": [16, 16, 14],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 16]},
+								"east": {"uv": [16, 0], "uv_size": [14, 16]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [16, 0], "uv_size": [14, 16]},
+								"up": {"uv": [30, 0], "uv_size": [16, 14]},
+								"down": {"uv": [30, 28], "uv_size": [16, -14]}
+							}
+						},
+						{
+							"origin": [-5, 7, -7],
+							"size": [10, 6, 1],
+							"uv": {
+								"north": {"uv": [58, 14], "uv_size": [10, 6]},
+								"east": {"uv": [14, 62], "uv_size": [1, 6]},
+								"south": {"uv": [58, 20], "uv_size": [10, 6]},
+								"west": {"uv": [15, 62], "uv_size": [1, 6]},
+								"up": {"uv": [46, 41], "uv_size": [10, 1]},
+								"down": {"uv": [58, 56], "uv_size": [10, -1]}
+							}
+						}
+					]
+				},
+				{
+					"name": "joystick",
+					"pivot": [0, 17.925, -4.5]
+				},
+				{
+					"name": "button",
+					"pivot": [2, 17.8, -4.5]
+				},
+				{
+					"name": "button 2",
+					"pivot": [3.3, 17.8, -4.5]
+				},
+				{
+					"name": "button 3",
+					"pivot": [4.5, 17.8, -4.5]
+				},
+				{
+					"name": "button 4",
+					"pivot": [-3, 17.8, -4.5]
+				}
+			]
+		}
+	]
+}

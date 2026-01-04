@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "faithfulbackrooms:almond_planks"
+    }
+  ],
+  "result": {
+    "item": "faithfulbackrooms:almond_button",
+    "count": 1
+  }
+}

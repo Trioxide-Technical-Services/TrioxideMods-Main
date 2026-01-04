@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "faithfulbackrooms:block/level7wallpaper",
+    "up": "faithfulbackrooms:block/level7wallpaper",
+    "north": "faithfulbackrooms:block/level7algae",
+    "east": "faithfulbackrooms:block/level7algae",
+    "south": "faithfulbackrooms:block/level7algae",
+    "west": "faithfulbackrooms:block/level7algae",
+    "particle": "faithfulbackrooms:block/level7wallpaper"
+  },
+  "render_type": "solid"
+}

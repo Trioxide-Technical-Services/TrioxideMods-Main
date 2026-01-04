@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "faithfulbackrooms:block/tatamimat",
+    "particle": "faithfulbackrooms:block/tatamimat"
+  },
+  "render_type": "solid"
+}

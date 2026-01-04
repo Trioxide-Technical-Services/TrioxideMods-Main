@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/radius_r_8656"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/radius_r_8656",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/radius_r_8656",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/radius_r_8656",
+      "y": 270
+    }
+  }
+}

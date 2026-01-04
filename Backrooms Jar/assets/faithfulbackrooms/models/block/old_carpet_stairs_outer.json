@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "faithfulbackrooms:block/unknown_22",
+    "bottom": "faithfulbackrooms:block/unknown_22",
+    "top": "faithfulbackrooms:block/unknown_22",
+    "side": "faithfulbackrooms:block/unknown_22"
+  },
+  "render_type": "solid"
+}

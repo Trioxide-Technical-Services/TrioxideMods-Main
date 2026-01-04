@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "faithfulbackrooms:blocks/fractal_reality_thread",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "faithfulbackrooms:fractal_reality_thread"
+        }
+      ]
+    }
+  ]
+}

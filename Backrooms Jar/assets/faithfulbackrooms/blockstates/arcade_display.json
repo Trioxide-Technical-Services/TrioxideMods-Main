@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "faithfulbackrooms:block/arcade_display"
+    },
+    "blockstate=1": {
+      "model": "faithfulbackrooms:block/adbs_blockstate_0"
+    }
+  }
+}

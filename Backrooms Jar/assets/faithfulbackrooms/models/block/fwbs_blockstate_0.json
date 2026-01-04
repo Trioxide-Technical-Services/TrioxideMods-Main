@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/floorwires2",
+  "textures": {
+    "all": "minecraft:block/black_wool",
+    "particle": "minecraft:block/black_wool",
+    "0": "minecraft:block/black_wool"
+  },
+  "render_type": "solid"
+}

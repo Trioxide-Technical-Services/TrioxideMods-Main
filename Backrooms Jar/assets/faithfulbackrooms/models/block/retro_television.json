@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/retrotv",
+  "textures": {
+    "all": "faithfulbackrooms:block/tvkiur",
+    "particle": "faithfulbackrooms:block/tvkiur",
+    "0": "faithfulbackrooms:block/tvkiur",
+    "1": "faithfulbackrooms:block/tvoffscreen"
+  },
+  "render_type": "solid"
+}

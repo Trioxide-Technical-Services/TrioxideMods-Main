@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/selfcheckoutscreen",
+  "textures": {
+    "all": "faithfulbackrooms:block/selfcheckoutscreen",
+    "particle": "faithfulbackrooms:block/selfcheckoutscreen",
+    "0": "faithfulbackrooms:block/selfcheckoutscreen"
+  },
+  "render_type": "translucent"
+}

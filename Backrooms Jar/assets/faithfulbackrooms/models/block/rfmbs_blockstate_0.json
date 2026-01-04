@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "faithfulbackrooms:block/resinfloormarkedred",
+    "up": "faithfulbackrooms:block/resinfloormarkedred",
+    "north": "faithfulbackrooms:block/resinfloormarkedred",
+    "east": "faithfulbackrooms:block/resinfloor",
+    "south": "faithfulbackrooms:block/resinfloormarkedred",
+    "west": "faithfulbackrooms:block/resinfloor",
+    "particle": "faithfulbackrooms:block/resinfloormarkedblue"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right",
+  "textures": {
+    "particle": "faithfulbackrooms:block/officedoorbottom",
+    "bottom": "faithfulbackrooms:block/officedoorbottom",
+    "top": "faithfulbackrooms:block/officedoortop"
+  },
+  "render_type": "cutout"
+}

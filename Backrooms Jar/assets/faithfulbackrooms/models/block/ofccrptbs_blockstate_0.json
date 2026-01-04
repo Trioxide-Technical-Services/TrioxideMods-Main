@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "faithfulbackrooms:block/download_6",
+    "up": "faithfulbackrooms:block/download_6",
+    "north": "faithfulbackrooms:block/download_6",
+    "east": "faithfulbackrooms:block/download_6",
+    "south": "faithfulbackrooms:block/download_6",
+    "west": "faithfulbackrooms:block/download_6",
+    "particle": "faithfulbackrooms:block/download_1"
+  },
+  "render_type": "solid"
+}

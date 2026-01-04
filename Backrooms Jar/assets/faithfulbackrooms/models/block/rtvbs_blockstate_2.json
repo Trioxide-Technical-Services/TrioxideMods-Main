@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/retrotvnoan",
+  "textures": {
+    "all": "faithfulbackrooms:block/tvconnected",
+    "particle": "faithfulbackrooms:block/tvkiur",
+    "0": "faithfulbackrooms:block/tvkiur",
+    "2": "faithfulbackrooms:block/tvoffscreen"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/shopbarrier",
+  "textures": {
+    "all": "faithfulbackrooms:block/l4ceiling",
+    "particle": "faithfulbackrooms:block/l4ceiling",
+    "0": "faithfulbackrooms:block/l4ceiling"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "faithfulbackrooms:block/white_glass_broken"
+    },
+    "blockstate=1": {
+      "model": "faithfulbackrooms:block/wgbs_blockstate_0"
+    }
+  }
+}

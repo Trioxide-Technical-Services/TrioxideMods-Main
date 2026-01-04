@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "faithfulbackrooms:complex_electric_circuit"
+    },
+    "b": {
+      "item": "faithfulbackrooms:plumbing_pipe"
+    },
+    "c": {
+      "item": "faithfulbackrooms:working_lamp"
+    },
+    "d": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "e": {
+      "item": "minecraft:yellow_dye"
+    },
+    "f": {
+      "item": "faithfulbackrooms:wiring_kit"
+    }
+  },
+  "result": {
+    "item": "faithfulbackrooms:tall_working_lamp",
+    "count": 1
+  }
+}

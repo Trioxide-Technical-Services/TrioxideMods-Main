@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "faithfulbackrooms:block/redglitch",
+    "particle": "faithfulbackrooms:block/redglitch"
+  },
+  "render_type": "solid"
+}

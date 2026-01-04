@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_bars"
+    },
+    "title": {
+      "translate": "advancements.level_75_entry.title"
+    },
+    "description": {
+      "translate": "advancements.level_75_entry.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "level_75_entry_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "faithfulbackrooms:level_75"
+      }
+    }
+  },
+  "parent": "faithfulbackrooms:level_14_entry"
+}

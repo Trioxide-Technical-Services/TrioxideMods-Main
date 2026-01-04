@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "adc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "faithfulbackrooms:decoder_chip"
+    },
+    "b": {
+      "item": "minecraft:anvil"
+    },
+    "c": {
+      "item": "faithfulbackrooms:translator_chip"
+    },
+    "d": {
+      "item": "faithfulbackrooms:complex_electric_circuit"
+    },
+    "e": {
+      "item": "faithfulbackrooms:plastic_casing"
+    },
+    "f": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "faithfulbackrooms:modified_scanner",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/asofa",
+  "textures": {
+    "all": "faithfulbackrooms:block/sofa",
+    "particle": "faithfulbackrooms:block/sofa",
+    "1": "faithfulbackrooms:block/sofa",
+    "missing": "faithfulbackrooms:block/sofa"
+  },
+  "render_type": "solid"
+}

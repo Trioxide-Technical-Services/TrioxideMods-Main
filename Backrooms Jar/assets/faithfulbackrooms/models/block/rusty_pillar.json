@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/rustypillar",
+  "textures": {
+    "all": "faithfulbackrooms:block/rustypillar",
+    "particle": "faithfulbackrooms:block/rustypillar",
+    "0": "faithfulbackrooms:block/rustypillar"
+  },
+  "render_type": "solid"
+}

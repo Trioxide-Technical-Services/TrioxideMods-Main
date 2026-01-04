@@ -1,0 +1,17 @@
+{
+  "type": "faithfulbackrooms:level_0",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        { "block": "minecraft:bedrock", "height": 1 },
+        { "block": "faithfulbackrooms:formless_yellow_wallpaper", "height": 260 },
+        { "block": "faithfulbackrooms:formless_yellow_wallpaper", "height": 1 }
+      ],
+      "biome": "faithfulbackrooms:level_0_biome",
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "faithfulbackrooms:block/whiteplanks",
+    "particle": "faithfulbackrooms:block/whiteplanks"
+  },
+  "render_type": "solid"
+}

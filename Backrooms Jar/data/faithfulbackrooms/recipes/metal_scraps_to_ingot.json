@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "faithfulbackrooms:metal_scraps"
+    },
+    {
+      "item": "faithfulbackrooms:metal_scraps"
+    },
+    {
+      "item": "faithfulbackrooms:metal_scraps"
+    },
+    {
+      "item": "faithfulbackrooms:metal_scraps"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

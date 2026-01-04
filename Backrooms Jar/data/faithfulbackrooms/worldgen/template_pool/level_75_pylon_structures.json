@@ -1,0 +1,17 @@
+{
+  "name": "faithfulbackrooms:level_75_pylon_structures",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "faithfulbackrooms:level_75_pylon1",
+        "projection": "terrain_matching",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

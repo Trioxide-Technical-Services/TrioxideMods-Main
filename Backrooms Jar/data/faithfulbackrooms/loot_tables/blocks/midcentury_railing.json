@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "faithfulbackrooms:blocks/midcentury_railing",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "faithfulbackrooms:midcentury_railing"
+        }
+      ]
+    }
+  ]
+}

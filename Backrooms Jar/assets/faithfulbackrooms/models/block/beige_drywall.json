@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "faithfulbackrooms:block/level7wallpaper",
+    "particle": "faithfulbackrooms:block/level7wallpaper"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "finding_pallets_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "faithfulbackrooms:wooden_pallet_rack"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "faithfulbackrooms:level_0_entry"
+}

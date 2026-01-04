@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "faithfulbackrooms:level_24_structure_6",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 1,
+    "salt": 1412202408
+  }
+}

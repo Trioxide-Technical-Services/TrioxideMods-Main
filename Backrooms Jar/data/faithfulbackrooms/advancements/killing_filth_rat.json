@@ -1,0 +1,7 @@
+{
+  "criteria": {
+    "killing_filth_rat_0": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

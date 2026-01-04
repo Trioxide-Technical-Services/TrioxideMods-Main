@@ -1,0 +1,12 @@
+{
+  "parent": "faithfulbackrooms:custom/exitsign2",
+  "textures": {
+    "all": "faithfulbackrooms:block/exitsign4",
+    "particle": "faithfulbackrooms:block/exitsign4",
+    "0": "faithfulbackrooms:block/exitsign4",
+    "1": "faithfulbackrooms:block/exitsign2",
+    "2": "faithfulbackrooms:block/exitsign3",
+    "missing": "faithfulbackrooms:block/exitsign4"
+  },
+  "render_type": "solid"
+}

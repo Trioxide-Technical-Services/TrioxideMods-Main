@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/warningsign3",
+  "textures": {
+    "all": "faithfulbackrooms:block/warningsign3",
+    "particle": "faithfulbackrooms:block/warningsign3",
+    "0": "faithfulbackrooms:block/warningsign3"
+  },
+  "render_type": "solid"
+}

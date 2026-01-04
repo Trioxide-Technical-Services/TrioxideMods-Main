@@ -1,0 +1,7 @@
+{
+  "parent": "faithfulbackrooms:custom/wrench",
+  "textures": {
+    "0": "faithfulbackrooms:block/wrench",
+    "particle": "faithfulbackrooms:item/wrench"
+  }
+}

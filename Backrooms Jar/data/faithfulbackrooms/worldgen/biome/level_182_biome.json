@@ -1,0 +1,47 @@
+{
+  "has_precipitation": true,
+  "temperature": -1,
+  "downfall": 1,
+  "effects": {
+    "ambient_sound": "faithfulbackrooms:level9ambience",
+    "particle": {
+      "options": {
+        "type": "ash"
+      },
+      "probability": 0.005
+    },
+    "foliage_color": -6710887,
+    "grass_color": -1,
+    "sky_color": -3355444,
+    "fog_color": -10066330,
+    "water_color": -3355444,
+    "water_fog_color": -16777216
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "faithfulbackrooms:level_182_biome_tree"
+    ],
+    []
+  ]
+}

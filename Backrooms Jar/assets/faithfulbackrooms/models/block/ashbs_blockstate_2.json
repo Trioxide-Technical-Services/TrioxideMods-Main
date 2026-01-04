@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "faithfulbackrooms:block/concrete",
+    "up": "faithfulbackrooms:block/marked_concrete_corner",
+    "north": "faithfulbackrooms:block/concrete",
+    "east": "faithfulbackrooms:block/concrete",
+    "south": "faithfulbackrooms:block/concrete",
+    "west": "faithfulbackrooms:block/concrete",
+    "particle": "faithfulbackrooms:block/concrete"
+  },
+  "render_type": "solid"
+}

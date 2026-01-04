@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "faithfulbackrooms:stripped_almond_wood"
+    }
+  ],
+  "result": {
+    "item": "faithfulbackrooms:almond_planks",
+    "count": 4
+  }
+}

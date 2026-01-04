@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/ceilingbeams3",
+  "textures": {
+    "all": "minecraft:block/gray_concrete_powder",
+    "particle": "minecraft:block/gray_concrete_powder",
+    "0": "minecraft:block/gray_concrete_powder"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "faithfulbackrooms:block/almond_slab"
+    },
+    "type=top": {
+      "model": "faithfulbackrooms:block/almond_slab_top"
+    },
+    "type=double": {
+      "model": "faithfulbackrooms:block/almond_slab_full"
+    }
+  }
+}

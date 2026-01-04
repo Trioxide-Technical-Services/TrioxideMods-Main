@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "faithfulbackrooms:item/woodbenchitem"
+  },
+  "render_type": "translucent"
+}

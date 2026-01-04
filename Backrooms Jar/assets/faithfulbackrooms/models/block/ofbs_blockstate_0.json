@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/oldfridgetop",
+  "textures": {
+    "all": "faithfulbackrooms:block/old_fridge",
+    "particle": "faithfulbackrooms:block/old_fridge",
+    "0": "faithfulbackrooms:block/old_fridge"
+  },
+  "render_type": "solid"
+}

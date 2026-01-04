@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/mallchair3",
+  "textures": {
+    "all": "faithfulbackrooms:block/mallchair3",
+    "particle": "faithfulbackrooms:block/mallchair1",
+    "0": "faithfulbackrooms:block/mallchair3"
+  },
+  "render_type": "solid"
+}

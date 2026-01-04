@@ -1,0 +1,7 @@
+{
+  "criteria": {
+    "killing_widow_0": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

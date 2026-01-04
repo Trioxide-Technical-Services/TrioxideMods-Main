@@ -1,0 +1,6 @@
+{
+  "parent": "faithfulbackrooms:displaysettings/arcadegame1",
+  "textures": {
+    "particle": "faithfulbackrooms:block/elevatordoor"
+  }
+}

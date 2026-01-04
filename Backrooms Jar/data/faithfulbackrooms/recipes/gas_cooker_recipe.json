@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " c ",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "faithfulbackrooms:plastic_holder"
+    },
+    "b": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "c": {
+      "item": "faithfulbackrooms:plumbing_pipe"
+    },
+    "d": {
+      "item": "faithfulbackrooms:propane_tank"
+    }
+  },
+  "result": {
+    "item": "faithfulbackrooms:gas_cooker",
+    "count": 1
+  }
+}

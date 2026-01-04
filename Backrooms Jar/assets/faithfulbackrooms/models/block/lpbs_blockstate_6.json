@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/lamppostrotated",
+  "textures": {
+    "all": "faithfulbackrooms:block/lamppost",
+    "particle": "faithfulbackrooms:block/lamppost",
+    "0": "faithfulbackrooms:block/lamppost"
+  },
+  "render_type": "solid"
+}

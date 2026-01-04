@@ -1,0 +1,17 @@
+{
+  "type": "faithfulbackrooms:level_33",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        { "block": "minecraft:bedrock", "height": 1 },
+        { "block": "faithfulbackrooms:formless_quartz_brick", "height": 163 },
+        { "block": "minecraft:barrier", "height": 1 }
+      ],
+      "biome": "faithfulbackrooms:level_33_biome",
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}

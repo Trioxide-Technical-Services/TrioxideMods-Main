@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/scraptable",
+  "textures": {
+    "all": "faithfulbackrooms:block/scraptable",
+    "particle": "faithfulbackrooms:block/scraptable",
+    "0": "faithfulbackrooms:block/scraptable"
+  },
+  "render_type": "cutout"
+}

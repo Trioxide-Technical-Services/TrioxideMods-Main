@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:water",
+    "faithfulbackrooms:yellow_wallpaper",
+    "minecraft:quartz_bricks",
+    "minecraft:snow_block",
+    "minecraft:sand",
+    "faithfulbackrooms:beige_void",
+    "faithfulbackrooms:arcade_carpet",
+    "minecraft:stone",
+    "minecraft:dirt",
+    "minecraft:grass_block"
+  ]
+}

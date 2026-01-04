@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "faithfulbackrooms:blocks/dark_bricks_leaky",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "faithfulbackrooms:dark_brick"
+        }
+      ]
+    }
+  ]
+}

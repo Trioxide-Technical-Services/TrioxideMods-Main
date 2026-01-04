@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/fallen_ceiling_tile"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/fallen_ceiling_tile",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/fallen_ceiling_tile",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/fallen_ceiling_tile",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/wall_power_outlet"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/wall_power_outlet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/wall_power_outlet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/wall_power_outlet",
+      "y": 270
+    }
+  }
+}

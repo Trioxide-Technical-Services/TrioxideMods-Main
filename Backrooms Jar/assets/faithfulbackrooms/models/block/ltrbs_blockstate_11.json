@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/letteringm",
+  "textures": {
+    "all": "minecraft:block/chiseled_quartz_block",
+    "particle": "minecraft:block/chiseled_quartz_block",
+    "0": "minecraft:block/chiseled_quartz_block"
+  },
+  "render_type": "solid"
+}

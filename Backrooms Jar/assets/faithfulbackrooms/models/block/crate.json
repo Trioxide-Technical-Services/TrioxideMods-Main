@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "faithfulbackrooms:block/crate1",
+    "particle": "faithfulbackrooms:block/crate1"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/industrialwires",
+  "textures": {
+    "all": "faithfulbackrooms:block/industrialwires",
+    "particle": "faithfulbackrooms:block/industrialwires",
+    "0": "faithfulbackrooms:block/industrialwires"
+  },
+  "render_type": "solid"
+}

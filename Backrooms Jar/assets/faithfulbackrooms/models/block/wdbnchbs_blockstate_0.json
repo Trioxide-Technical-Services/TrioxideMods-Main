@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/wood_bench2",
+  "textures": {
+    "all": "faithfulbackrooms:block/mouldwoodbench",
+    "particle": "faithfulbackrooms:block/almond_stripped_log",
+    "0": "faithfulbackrooms:block/mouldwoodbench"
+  },
+  "render_type": "solid"
+}

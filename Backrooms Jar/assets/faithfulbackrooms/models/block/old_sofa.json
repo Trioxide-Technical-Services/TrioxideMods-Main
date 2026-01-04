@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/sofakiur",
+  "textures": {
+    "all": "faithfulbackrooms:block/moistsofakiur",
+    "particle": "faithfulbackrooms:block/moistsofakiur",
+    "1": "faithfulbackrooms:block/moistsofakiur"
+  },
+  "render_type": "solid"
+}

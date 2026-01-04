@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/publictrash1",
+  "textures": {
+    "all": "faithfulbackrooms:block/publictrash1",
+    "particle": "faithfulbackrooms:block/publictrash1",
+    "0": "faithfulbackrooms:block/publictrash1"
+  },
+  "render_type": "cutout"
+}

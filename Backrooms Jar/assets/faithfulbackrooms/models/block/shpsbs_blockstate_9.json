@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/bigshopsign5",
+  "textures": {
+    "all": "faithfulbackrooms:block/bigshopsign5",
+    "particle": "faithfulbackrooms:block/shopsign1",
+    "0": "faithfulbackrooms:block/bigshopsign5"
+  },
+  "render_type": "solid"
+}

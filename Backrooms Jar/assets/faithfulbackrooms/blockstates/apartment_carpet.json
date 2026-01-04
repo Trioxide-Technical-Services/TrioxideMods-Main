@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "faithfulbackrooms:block/apartment_carpet"
+    },
+    "blockstate=1": {
+      "model": "faithfulbackrooms:block/acbs_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "faithfulbackrooms:block/acbs_blockstate_1"
+    }
+  }
+}

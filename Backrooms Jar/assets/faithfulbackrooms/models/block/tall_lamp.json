@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/lampkiur",
+  "textures": {
+    "all": "faithfulbackrooms:block/lampkiur",
+    "particle": "faithfulbackrooms:block/lampkiur",
+    "1": "faithfulbackrooms:block/lampkiur"
+  },
+  "render_type": "solid"
+}

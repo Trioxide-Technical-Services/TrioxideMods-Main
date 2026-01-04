@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/modernceilingtile3",
+  "textures": {
+    "all": "faithfulbackrooms:block/ceilinglight2",
+    "particle": "faithfulbackrooms:block/ceilingtilekiur",
+    "0": "faithfulbackrooms:block/l4ceiling"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/computerkiur",
+  "textures": {
+    "all": "faithfulbackrooms:block/computerkiur",
+    "particle": "faithfulbackrooms:block/computerkiur",
+    "missing": "faithfulbackrooms:block/computerkiur"
+  },
+  "render_type": "solid"
+}

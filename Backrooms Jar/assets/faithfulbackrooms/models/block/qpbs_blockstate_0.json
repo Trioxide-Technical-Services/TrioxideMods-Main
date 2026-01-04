@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/quartz_pillar_with_sign1",
+  "textures": {
+    "all": "minecraft:block/quartz_pillar",
+    "particle": "minecraft:block/quartz_pillar",
+    "0": "minecraft:block/quartz_pillar",
+    "1": "faithfulbackrooms:block/quartzpillarsign1"
+  },
+  "render_type": "solid"
+}

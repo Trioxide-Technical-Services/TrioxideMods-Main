@@ -1,0 +1,17 @@
+{
+  "name": "faithfulbackrooms:level_24_structure_4",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "faithfulbackrooms:level_24_structure4",
+        "projection": "terrain_matching",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

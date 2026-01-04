@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/firealarmkiur",
+  "textures": {
+    "all": "faithfulbackrooms:block/firealarmkiur",
+    "particle": "faithfulbackrooms:block/firealarmkiur",
+    "0": "faithfulbackrooms:block/firealarmkiur"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "faithfulbackrooms:electrics_table_recipes",
+  "ingredients": [
+    {
+      "item": "faithfulbackrooms:bare_board"
+    },
+    {
+      "item": "faithfulbackrooms:copper_wire"
+    },
+    {
+      "tag": "faithfulbackrooms:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "faithfulbackrooms:electric_circuit",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "faithfulbackrooms:block/concrete",
+    "bottom": "faithfulbackrooms:block/concrete",
+    "top": "faithfulbackrooms:block/concrete",
+    "side": "faithfulbackrooms:block/concrete"
+  },
+  "render_type": "solid"
+}

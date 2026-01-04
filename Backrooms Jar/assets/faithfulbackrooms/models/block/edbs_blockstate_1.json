@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/elevatordoors3",
+  "textures": {
+    "all": "faithfulbackrooms:block/elevatordoors",
+    "particle": "faithfulbackrooms:block/elevatordoors",
+    "0": "faithfulbackrooms:block/elevatordoors"
+  },
+  "render_type": "solid"
+}

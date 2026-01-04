@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/shoppingrack1",
+  "textures": {
+    "all": "faithfulbackrooms:block/shoppingproducts1",
+    "particle": "faithfulbackrooms:block/shoppingrack",
+    "0": "faithfulbackrooms:block/shoppingrack",
+    "1": "faithfulbackrooms:block/shoppingproducts1"
+  },
+  "render_type": "solid"
+}

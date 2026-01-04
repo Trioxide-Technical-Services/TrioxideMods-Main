@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/largehanginglight",
+  "textures": {
+    "all": "faithfulbackrooms:block/largehanginglight",
+    "particle": "faithfulbackrooms:block/largehanginglight",
+    "0": "faithfulbackrooms:block/largehanginglight"
+  },
+  "render_type": "solid"
+}

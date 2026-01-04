@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "faithfulbackrooms:block/arcade_carpet",
+    "particle": "faithfulbackrooms:block/arcade_carpet"
+  },
+  "render_type": "solid"
+}

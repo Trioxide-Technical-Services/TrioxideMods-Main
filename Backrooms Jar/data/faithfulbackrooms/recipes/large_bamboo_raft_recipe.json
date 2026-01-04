@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "faithfulbackrooms:old_catwalk"
+    },
+    "b": {
+      "item": "faithfulbackrooms:lamppost"
+    },
+    "c": {
+      "item": "faithfulbackrooms:white_plastic_chair"
+    },
+    "d": {
+      "item": "minecraft:bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "faithfulbackrooms:large_bamboo_raft",
+    "count": 1
+  }
+}

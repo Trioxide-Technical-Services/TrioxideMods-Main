@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "faithfulbackrooms:spruce_pillar"
+    },
+    {
+      "item": "faithfulbackrooms:spruce_pillar"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spruce_wood",
+    "count": 1
+  }
+}

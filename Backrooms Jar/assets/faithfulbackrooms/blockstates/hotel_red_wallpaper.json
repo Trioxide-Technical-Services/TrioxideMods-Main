@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "faithfulbackrooms:block/hotel_red_wallpaper"
+    },
+    "blockstate=1": {
+      "model": "faithfulbackrooms:block/hrwbs_blockstate_0"
+    }
+  }
+}

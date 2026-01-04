@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/extinguisherkiur",
+  "textures": {
+    "all": "faithfulbackrooms:block/extkiur",
+    "particle": "faithfulbackrooms:block/extkiur",
+    "0": "faithfulbackrooms:block/extkiur"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "criteria": {
+    "killing_ogeomi_0": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

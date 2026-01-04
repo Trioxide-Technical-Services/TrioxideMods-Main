@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/toilet",
+  "textures": {
+    "all": "minecraft:block/quartz_block_bottom",
+    "particle": "minecraft:block/quartz_block_bottom",
+    "0": "minecraft:block/quartz_block_bottom",
+    "1": "minecraft:block/anvil"
+  },
+  "render_type": "solid"
+}

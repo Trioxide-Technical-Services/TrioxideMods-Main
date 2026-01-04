@@ -1,0 +1,17 @@
+{
+  "type": "faithfulbackrooms:level_4",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        { "block": "minecraft:bedrock", "height": 1 },
+        { "block": "faithfulbackrooms:white_void", "height": 260 },
+        { "block": "minecraft:barrier", "height": 1 }
+      ],
+      "biome": "faithfulbackrooms:level_4_biome",
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}

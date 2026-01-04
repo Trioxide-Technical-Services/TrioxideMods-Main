@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "faithfulbackrooms:block/office_carpet"
+    },
+    "blockstate=1": {
+      "model": "faithfulbackrooms:block/ofccrptbs_blockstate_0"
+    }
+  }
+}

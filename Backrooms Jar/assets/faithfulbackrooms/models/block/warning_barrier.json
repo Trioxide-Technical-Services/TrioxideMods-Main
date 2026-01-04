@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/warningbarrier1",
+  "textures": {
+    "all": "faithfulbackrooms:block/warningbarrier",
+    "particle": "faithfulbackrooms:block/warningbarrier",
+    "0": "minecraft:block/lodestone_top",
+    "1": "faithfulbackrooms:block/warningbarrier"
+  },
+  "render_type": "cutout"
+}

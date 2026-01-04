@@ -1,0 +1,6 @@
+{
+  "parent": "faithfulbackrooms:displaysettings/arcadegame1.animation",
+  "textures": {
+    "particle": "faithfulbackrooms:block/elevatorbuttons"
+  }
+}

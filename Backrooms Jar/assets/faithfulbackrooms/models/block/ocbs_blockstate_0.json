@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/stair",
+  "textures": {
+    "all": "faithfulbackrooms:block/unknown_22",
+    "particle": "faithfulbackrooms:block/unknown_22",
+    "missing": "faithfulbackrooms:block/unknown_22"
+  },
+  "render_type": "solid"
+}

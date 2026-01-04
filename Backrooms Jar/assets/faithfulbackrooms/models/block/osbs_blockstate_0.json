@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/orientalskirtingboard",
+  "textures": {
+    "all": "faithfulbackrooms:block/hotelwallpaperlight_1",
+    "particle": "faithfulbackrooms:block/orientalskirtingboard1",
+    "0": "faithfulbackrooms:block/hotelwallpaperlight_1",
+    "missing": "faithfulbackrooms:block/hotelwallpaperlight_1"
+  },
+  "render_type": "solid"
+}

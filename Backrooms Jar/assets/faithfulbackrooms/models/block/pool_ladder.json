@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/poolladder",
+  "textures": {
+    "all": "faithfulbackrooms:block/poolladder",
+    "particle": "faithfulbackrooms:block/poolladder",
+    "0": "faithfulbackrooms:block/poolladder"
+  },
+  "render_type": "solid"
+}

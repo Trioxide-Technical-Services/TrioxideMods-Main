@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/minifridge",
+  "textures": {
+    "all": "faithfulbackrooms:block/minifridge",
+    "particle": "faithfulbackrooms:block/minifridge",
+    "0": "faithfulbackrooms:block/minifridge"
+  },
+  "render_type": "translucent"
+}

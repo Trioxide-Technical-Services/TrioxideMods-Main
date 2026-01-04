@@ -1,0 +1,10 @@
+{
+  "name": "Patchouli Support Guide",
+  "landing_text": "Welcome to the guide!",
+  "version": 1,
+  "show_progress": false,
+  "creative_tab": "misc",
+  "book_texture": "patchouli:textures/gui/book_red.png",
+  "text_color": "0x000000",
+  "model": "patchouli:book_open"
+}

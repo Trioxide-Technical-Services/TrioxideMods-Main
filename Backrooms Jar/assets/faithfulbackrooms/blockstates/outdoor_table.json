@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/outdoor_table"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/outdoor_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/outdoor_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/outdoor_table",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "faithfulbackrooms:block/outdoor_table",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "faithfulbackrooms:block/outdoor_table",
+      "x": 90
+    }
+  }
+}

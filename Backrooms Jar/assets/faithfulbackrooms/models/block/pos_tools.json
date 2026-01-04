@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/posttools",
+  "textures": {
+    "all": "faithfulbackrooms:block/posttools",
+    "particle": "faithfulbackrooms:block/posttools",
+    "0": "faithfulbackrooms:block/posttools"
+  },
+  "render_type": "solid"
+}

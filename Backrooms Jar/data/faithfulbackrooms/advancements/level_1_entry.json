@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "faithfulbackrooms:asphalt"
+    },
+    "title": {
+      "translate": "advancements.level_1_entry.title"
+    },
+    "description": {
+      "translate": "advancements.level_1_entry.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "level_1_entry_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "faithfulbackrooms:level_1"
+      }
+    }
+  },
+  "parent": "faithfulbackrooms:level_0_entry"
+}

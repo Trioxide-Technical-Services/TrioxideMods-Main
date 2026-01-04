@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/industrialpiping3",
+  "textures": {
+    "all": "faithfulbackrooms:block/industrialpiping3",
+    "particle": "faithfulbackrooms:block/industrialpiping4",
+    "0": "faithfulbackrooms:block/industrialpiping3"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "faithfulbackrooms:electrics_table_recipes",
+  "ingredients": [
+    {
+      "item": "faithfulbackrooms:disorganised_wires"
+    },
+    {
+      "item": "faithfulbackrooms:copper_wire"
+    },
+    {
+      "item": "faithfulbackrooms:plastic_holder"
+    }
+  ],
+  "output": {
+    "item": "faithfulbackrooms:antenna",
+    "count": 1
+  }
+}

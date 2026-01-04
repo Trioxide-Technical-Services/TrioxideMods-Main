@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/plasticchair",
+  "textures": {
+    "all": "faithfulbackrooms:block/plasticwhitechair",
+    "particle": "faithfulbackrooms:block/plasticwhitechair",
+    "0": "faithfulbackrooms:block/plasticwhitechair"
+  },
+  "render_type": "solid"
+}

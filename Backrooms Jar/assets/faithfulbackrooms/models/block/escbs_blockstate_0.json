@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/escalator2_2",
+  "textures": {
+    "all": "faithfulbackrooms:block/escalatorconnected",
+    "particle": "faithfulbackrooms:block/escalator5",
+    "0": "faithfulbackrooms:block/escalatorconnected"
+  },
+  "render_type": "translucent"
+}

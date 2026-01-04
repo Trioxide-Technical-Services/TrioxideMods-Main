@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/hotelskirtingboardtop",
+  "textures": {
+    "all": "faithfulbackrooms:block/hotelwood3",
+    "particle": "faithfulbackrooms:block/hotelwood3",
+    "0": "faithfulbackrooms:block/hotelwood3"
+  },
+  "render_type": "solid"
+}

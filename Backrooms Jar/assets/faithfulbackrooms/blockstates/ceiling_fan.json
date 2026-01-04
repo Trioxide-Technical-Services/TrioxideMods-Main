@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "faithfulbackrooms:block/ceiling_fan"
+    },
+    "blockstate=1": {
+      "model": "faithfulbackrooms:block/cfbs_blockstate_0"
+    }
+  }
+}

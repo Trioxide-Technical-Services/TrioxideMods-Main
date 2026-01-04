@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "faithfulbackrooms:block/stone_flower_vase"
+    },
+    "blockstate=1": {
+      "model": "faithfulbackrooms:block/sfvbs_blockstate_0"
+    }
+  }
+}

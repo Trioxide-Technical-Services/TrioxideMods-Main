@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/brokenshopsign2",
+  "textures": {
+    "all": "faithfulbackrooms:block/brokenshopsign2",
+    "particle": "faithfulbackrooms:block/brokenshopsign",
+    "0": "faithfulbackrooms:block/brokenshopsign2"
+  },
+  "render_type": "cutout_mipped"
+}

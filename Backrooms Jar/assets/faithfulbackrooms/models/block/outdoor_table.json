@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/outdoortable",
+  "textures": {
+    "all": "faithfulbackrooms:block/outdoortable",
+    "particle": "faithfulbackrooms:block/outdoortable",
+    "0": "faithfulbackrooms:block/outdoortable"
+  },
+  "render_type": "cutout"
+}

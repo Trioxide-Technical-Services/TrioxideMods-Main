@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/wirecornerbottom",
+  "textures": {
+    "all": "faithfulbackrooms:block/pipe1",
+    "particle": "faithfulbackrooms:block/wire",
+    "0": "faithfulbackrooms:block/wire"
+  },
+  "render_type": "solid"
+}

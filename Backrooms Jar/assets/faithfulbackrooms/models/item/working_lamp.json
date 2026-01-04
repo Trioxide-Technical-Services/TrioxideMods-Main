@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "faithfulbackrooms:item/workinglampitem"
+  },
+  "render_type": "translucent"
+}

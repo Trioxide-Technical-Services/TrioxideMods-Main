@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/officeprintertop",
+  "textures": {
+    "all": "faithfulbackrooms:block/officeprinteroff",
+    "particle": "faithfulbackrooms:block/officeprinteroff",
+    "0": "faithfulbackrooms:block/officeprinteroff"
+  },
+  "render_type": "solid"
+}

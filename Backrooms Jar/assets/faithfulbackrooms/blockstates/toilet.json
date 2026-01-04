@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/toilet"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/toilet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/toilet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/toilet",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "faithfulbackrooms:block/sign1",
+    "up": "faithfulbackrooms:block/sign1",
+    "north": "faithfulbackrooms:block/sign1",
+    "east": "faithfulbackrooms:block/sign1",
+    "south": "faithfulbackrooms:block/sign1",
+    "west": "faithfulbackrooms:block/sign1",
+    "particle": "faithfulbackrooms:block/sign1"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/scrap_table"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/scrap_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/scrap_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/scrap_table",
+      "y": 270
+    }
+  }
+}

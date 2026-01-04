@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/palletrackboard",
+  "textures": {
+    "all": "faithfulbackrooms:block/palletrackboard",
+    "particle": "faithfulbackrooms:block/palletrackside",
+    "4": "faithfulbackrooms:block/palletrackboard"
+  },
+  "render_type": "cutout"
+}

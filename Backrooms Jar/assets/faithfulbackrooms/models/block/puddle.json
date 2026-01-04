@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/puddle",
+  "textures": {
+    "all": "faithfulbackrooms:block/puddle",
+    "particle": "faithfulbackrooms:block/puddle",
+    "0": "faithfulbackrooms:block/puddle"
+  },
+  "render_type": "translucent"
+}

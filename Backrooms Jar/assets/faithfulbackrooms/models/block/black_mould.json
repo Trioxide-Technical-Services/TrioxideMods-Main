@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/mould",
+  "textures": {
+    "all": "faithfulbackrooms:block/mould",
+    "particle": "faithfulbackrooms:block/mould",
+    "1": "faithfulbackrooms:block/mould"
+  },
+  "render_type": "translucent"
+}

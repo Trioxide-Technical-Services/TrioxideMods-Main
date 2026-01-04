@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "faithfulbackrooms:block/almond_leaves_1",
+    "particle": "faithfulbackrooms:block/almond_leaves_1"
+  }
+}

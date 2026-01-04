@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/checkoutshelves",
+  "textures": {
+    "all": "faithfulbackrooms:block/checkoutshelves",
+    "particle": "faithfulbackrooms:block/checkoutshelves",
+    "0": "faithfulbackrooms:block/checkoutshelves"
+  },
+  "render_type": "solid"
+}

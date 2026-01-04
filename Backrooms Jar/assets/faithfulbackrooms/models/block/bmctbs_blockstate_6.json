@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/l4ceilinglight2",
+  "textures": {
+    "all": "faithfulbackrooms:block/l4ceilinglight2",
+    "particle": "faithfulbackrooms:block/ceilingtilekiur",
+    "1": "faithfulbackrooms:block/l4ceiling",
+    "2": "faithfulbackrooms:block/l4ceilinglight2"
+  },
+  "render_type": "cutout"
+}

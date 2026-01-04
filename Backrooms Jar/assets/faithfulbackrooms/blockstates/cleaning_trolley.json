@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "faithfulbackrooms:block/cleaning_trolley"
+    },
+    "facing=east,blockstate=0": {
+      "model": "faithfulbackrooms:block/cleaning_trolley",
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "faithfulbackrooms:block/cleaning_trolley",
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "faithfulbackrooms:block/cleaning_trolley",
+      "y": 270
+    },
+    "facing=north,blockstate=1": {
+      "model": "faithfulbackrooms:block/ctbs_blockstate_0"
+    },
+    "facing=east,blockstate=1": {
+      "model": "faithfulbackrooms:block/ctbs_blockstate_0",
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "faithfulbackrooms:block/ctbs_blockstate_0",
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "faithfulbackrooms:block/ctbs_blockstate_0",
+      "y": 270
+    }
+  }
+}

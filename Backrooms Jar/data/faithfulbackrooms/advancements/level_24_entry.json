@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "faithfulbackrooms:moon_stone"
+    },
+    "title": {
+      "translate": "advancements.level_24_entry.title"
+    },
+    "description": {
+      "translate": "advancements.level_24_entry.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "level_24_entry_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "faithfulbackrooms:level_24"
+      }
+    }
+  },
+  "parent": "faithfulbackrooms:level_33_entry"
+}

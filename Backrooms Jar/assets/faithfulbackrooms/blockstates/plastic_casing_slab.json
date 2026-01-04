@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/plastic_casing_slab"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/plastic_casing_slab",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/plastic_casing_slab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/plastic_casing_slab",
+      "y": 270
+    }
+  }
+}

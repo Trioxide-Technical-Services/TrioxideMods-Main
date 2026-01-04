@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ddd",
+    "eee"
+  ],
+  "key": {
+    "a": {
+      "item": "faithfulbackrooms:screwdriver"
+    },
+    "b": {
+      "item": "faithfulbackrooms:pliers"
+    },
+    "c": {
+      "item": "faithfulbackrooms:screw"
+    },
+    "d": {
+      "item": "minecraft:iron_bars"
+    },
+    "e": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "faithfulbackrooms:electrics_table",
+    "count": 1
+  }
+}

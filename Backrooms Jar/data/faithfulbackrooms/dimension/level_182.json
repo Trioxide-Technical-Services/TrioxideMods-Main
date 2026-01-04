@@ -1,0 +1,18 @@
+{
+  "type": "faithfulbackrooms:level_182",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        { "block": "minecraft:bedrock", "height": 1 },
+        { "block": "faithfulbackrooms:beige_void", "height": 60 },
+        { "block": "minecraft:dirt", "height": 4 },
+        { "block": "minecraft:snow_block", "height": 2 }
+      ],
+      "biome": "faithfulbackrooms:level_182_biome",
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}

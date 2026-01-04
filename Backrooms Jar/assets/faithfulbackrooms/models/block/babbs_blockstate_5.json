@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/bigadtop2",
+  "textures": {
+    "all": "faithfulbackrooms:block/bigadsign2",
+    "particle": "faithfulbackrooms:block/bigadsign",
+    "0": "faithfulbackrooms:block/bigadsign2"
+  },
+  "render_type": "solid"
+}

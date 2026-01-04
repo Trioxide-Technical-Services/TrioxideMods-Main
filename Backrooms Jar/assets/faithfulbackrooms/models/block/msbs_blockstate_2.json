@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/metalscannertopon",
+  "textures": {
+    "all": "faithfulbackrooms:block/metalscanner",
+    "particle": "faithfulbackrooms:block/metalscanner",
+    "0": "faithfulbackrooms:block/metalscanner"
+  },
+  "render_type": "solid"
+}

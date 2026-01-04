@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "faithfulbackrooms:block/almond_stripped_log_top",
+    "up": "faithfulbackrooms:block/almond_stripped_log_top",
+    "north": "faithfulbackrooms:block/almond_stripped_log",
+    "east": "faithfulbackrooms:block/almond_stripped_log",
+    "south": "faithfulbackrooms:block/almond_stripped_log",
+    "west": "faithfulbackrooms:block/almond_stripped_log",
+    "particle": "faithfulbackrooms:block/almond_stripped_log_top"
+  },
+  "render_type": "solid"
+}

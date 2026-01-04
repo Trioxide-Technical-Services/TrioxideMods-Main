@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "faithfulbackrooms:block/lamp"
+    },
+    "blockstate=1": {
+      "model": "faithfulbackrooms:block/lbs_blockstate_0"
+    }
+  }
+}

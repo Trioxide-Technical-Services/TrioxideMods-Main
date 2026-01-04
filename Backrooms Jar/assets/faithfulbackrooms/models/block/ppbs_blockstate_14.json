@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/pipejunctiontopbottom",
+  "textures": {
+    "all": "faithfulbackrooms:block/pipetexture",
+    "particle": "faithfulbackrooms:block/pipe1",
+    "0": "faithfulbackrooms:block/pipetexture"
+  },
+  "render_type": "solid"
+}

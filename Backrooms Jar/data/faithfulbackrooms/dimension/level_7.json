@@ -1,0 +1,11 @@
+{
+  "type": "faithfulbackrooms:level_7",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "faithfulbackrooms:level_7_ocean"
+    },
+    "settings": "faithfulbackrooms:level_7_noise_settings"
+  }
+}

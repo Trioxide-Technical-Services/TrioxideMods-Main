@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/ceilinglight",
+  "textures": {
+    "all": "minecraft:block/yellow_stained_glass",
+    "particle": "minecraft:block/yellow_stained_glass",
+    "0": "minecraft:block/quartz_block_side",
+    "2": "minecraft:block/black_concrete"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "faithfulbackrooms:plastic_scraps"
+    },
+    {
+      "item": "faithfulbackrooms:plastic_scraps"
+    },
+    {
+      "item": "faithfulbackrooms:plastic_scraps"
+    },
+    {
+      "item": "faithfulbackrooms:plastic_scraps"
+    },
+    {
+      "item": "faithfulbackrooms:plastic_scraps"
+    },
+    {
+      "item": "faithfulbackrooms:plastic_scraps"
+    }
+  ],
+  "result": {
+    "item": "faithfulbackrooms:plastic_mesh",
+    "count": 1
+  }
+}

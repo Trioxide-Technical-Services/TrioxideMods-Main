@@ -1,0 +1,10 @@
+{
+  "parent": "faithfulbackrooms:custom/modern_desk",
+  "textures": {
+    "all": "minecraft:block/quartz_block_side",
+    "particle": "minecraft:block/quartz_block_side",
+    "0": "minecraft:block/quartz_block_side",
+    "1": "minecraft:block/polished_andesite"
+  },
+  "render_type": "cutout"
+}

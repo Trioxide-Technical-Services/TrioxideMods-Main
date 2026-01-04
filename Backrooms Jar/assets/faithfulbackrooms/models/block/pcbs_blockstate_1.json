@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "faithfulbackrooms:block/plasticcasing",
+    "up": "faithfulbackrooms:block/plasticcasing",
+    "north": "faithfulbackrooms:block/plasticcasingcheckout",
+    "east": "faithfulbackrooms:block/plasticcasing",
+    "south": "faithfulbackrooms:block/plasticcasing",
+    "west": "faithfulbackrooms:block/plasticcasing",
+    "particle": "faithfulbackrooms:block/plasticcasing"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "faithfulbackrooms:custom/foodpallet",
+  "textures": {
+    "all": "minecraft:block/stripped_oak_log",
+    "particle": "minecraft:block/stripped_oak_log",
+    "0": "minecraft:block/stripped_oak_log",
+    "1": "faithfulbackrooms:block/bigcan1",
+    "missing": "minecraft:block/stripped_oak_log"
+  },
+  "render_type": "solid"
+}

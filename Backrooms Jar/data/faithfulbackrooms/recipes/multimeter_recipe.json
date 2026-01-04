@@ -1,0 +1,18 @@
+{
+  "type": "faithfulbackrooms:electrics_table_recipes",
+  "ingredients": [
+    {
+      "item": "faithfulbackrooms:electric_circuit"
+    },
+    {
+      "item": "faithfulbackrooms:wiring_kit"
+    },
+    {
+      "item": "faithfulbackrooms:plastic_holder"
+    }
+  ],
+  "output": {
+    "item": "faithfulbackrooms:multimeter",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "faithfulbackrooms:electrics_table_recipes",
+  "ingredients": [
+    {
+      "item": "faithfulbackrooms:disorganised_wires"
+    },
+    {
+      "tag": "faithfulbackrooms:jei_empty_tag"
+    },
+    {
+      "item": "faithfulbackrooms:plastic_holder"
+    }
+  ],
+  "output": {
+    "item": "faithfulbackrooms:wiring_kit",
+    "count": 1
+  }
+}

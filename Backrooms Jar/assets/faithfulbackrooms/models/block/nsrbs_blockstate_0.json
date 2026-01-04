@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/neonstripcorner",
+  "textures": {
+    "all": "faithfulbackrooms:block/neonstripred",
+    "particle": "faithfulbackrooms:block/neonstripred",
+    "0": "faithfulbackrooms:block/neonstripred"
+  },
+  "render_type": "solid"
+}

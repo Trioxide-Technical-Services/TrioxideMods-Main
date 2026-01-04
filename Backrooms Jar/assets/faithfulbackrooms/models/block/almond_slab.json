@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "faithfulbackrooms:block/almond_planks_1",
+    "bottom": "faithfulbackrooms:block/almond_planks_1",
+    "top": "faithfulbackrooms:block/almond_planks_1",
+    "side": "faithfulbackrooms:block/almond_planks_1"
+  },
+  "render_type": "solid"
+}

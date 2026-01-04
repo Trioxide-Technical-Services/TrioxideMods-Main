@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "faithfulbackrooms:block/dirt_crate"
+    },
+    "facing=east": {
+      "model": "faithfulbackrooms:block/dirt_crate",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "faithfulbackrooms:block/dirt_crate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "faithfulbackrooms:block/dirt_crate",
+      "y": 270
+    }
+  }
+}

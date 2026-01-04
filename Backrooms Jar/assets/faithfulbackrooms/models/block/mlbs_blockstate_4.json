@@ -1,0 +1,9 @@
+{
+  "parent": "faithfulbackrooms:custom/ladderopen2",
+  "textures": {
+    "all": "faithfulbackrooms:block/blueladder",
+    "particle": "faithfulbackrooms:block/ladder",
+    "0": "faithfulbackrooms:block/blueladder"
+  },
+  "render_type": "solid"
+}

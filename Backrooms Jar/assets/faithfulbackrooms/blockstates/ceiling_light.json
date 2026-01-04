@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "faithfulbackrooms:block/ceiling_light"
+    },
+    "blockstate=1": {
+      "model": "faithfulbackrooms:block/clbs_blockstate_0"
+    }
+  }
+}
