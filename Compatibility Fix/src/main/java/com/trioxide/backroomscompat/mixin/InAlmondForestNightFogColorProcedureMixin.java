@@ -1,30 +1,23 @@
 package com.trioxide.backroomscompat.mixin;
 
+import net.minecraft.core.Holder;
 import net.minecraft.resources.ResourceLocation;
 import net.whyantique.faithfulbackrooms.procedures.InAlmondForestNightFogColorProcedure;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
-import org.spongepowered.asm.mixin.injection.ModifyArg;
+import org.spongepowered.asm.mixin.injection.Redirect;
 
 @Mixin(value = InAlmondForestNightFogColorProcedure.class, remap = false)
 public class InAlmondForestNightFogColorProcedureMixin {
 
     private static final ResourceLocation OUR_BIOME = new ResourceLocation("backrooms_terralith_compat", "almond_forest");
-    private static final ResourceLocation ORIGINAL_BIOME = new ResourceLocation("faithfulbackrooms", "almond_forest");
 
-    @ModifyArg(
+    @Redirect(
         method = "execute",
-        at = @At(value = "INVOKE", target = "Lnet/minecraft/resources/ResourceLocation;equals(Ljava/lang/Object;)Z"),
-        index = 0,
+        at = @At(value = "INVOKE", target = "Lnet/minecraft/core/Holder;is(Lnet/minecraft/resources/ResourceLocation;)Z"),
         require = 0
     )
-    private static Object modifyBiomeCheck(Object original) {
-        if (original instanceof ResourceLocation) {
-            ResourceLocation rl = (ResourceLocation) original;
-            if (rl.equals(OUR_BIOME)) {
-                return ORIGINAL_BIOME;
-            }
-        }
-        return original;
+    private static boolean redirectBiomeCheck(Holder<?> holder, ResourceLocation location) {
+        return holder.is(location) || holder.is(OUR_BIOME);
     }
 }
