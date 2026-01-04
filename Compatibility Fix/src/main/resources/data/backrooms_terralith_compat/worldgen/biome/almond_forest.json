@@ -3,18 +3,12 @@
   "temperature": 0.5,
   "downfall": 0.5,
   "effects": {
-    "foliage_color": 10083514,
-    "grass_color": 10083514,
+    "foliage_color": -6387858,
+    "grass_color": -5340069,
     "sky_color": 7972607,
     "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011,
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
-    }
+    "water_color": -9396805,
+    "water_fog_color": -8996689
   },
   "spawners": {
     "monster": [],
