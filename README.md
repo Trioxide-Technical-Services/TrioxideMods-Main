@@ -1,2 +1,2 @@
-# TrioxideMods-MNain
+# TrioxideMods-Main
 Mods for MC
