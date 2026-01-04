@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "faithfulbackrooms:almond_forest",
-  "features": "minecraft:patch_grass_jungle",
-  "step": "vegetal_decoration"
-}
