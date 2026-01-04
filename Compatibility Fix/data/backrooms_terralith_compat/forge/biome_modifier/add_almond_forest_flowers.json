@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "faithfulbackrooms:almond_forest",
+  "features": "minecraft:forest_flowers",
+  "step": "vegetal_decoration"
+}
