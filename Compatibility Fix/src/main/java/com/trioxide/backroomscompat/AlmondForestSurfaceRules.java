@@ -11,7 +11,7 @@ public class AlmondForestSurfaceRules {
 
     public static final ResourceKey<Biome> ALMOND_FOREST = ResourceKey.create(
         Registries.BIOME,
-        new ResourceLocation("faithfulbackrooms", "almond_forest")
+        new ResourceLocation("backrooms_terralith_compat", "almond_forest")
     );
 
     public static SurfaceRules.RuleSource makeRules() {

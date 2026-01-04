@@ -15,10 +15,10 @@ import java.util.function.Consumer;
 
 public class AlmondForestRegion extends Region {
 
-    // Reference to the Backrooms mod's Almond Forest biome
+    // Our own Almond Forest biome (to test if Backrooms mod's biome has issues)
     public static final ResourceKey<Biome> ALMOND_FOREST = ResourceKey.create(
         net.minecraft.core.registries.Registries.BIOME,
-        new ResourceLocation("faithfulbackrooms", "almond_forest")
+        new ResourceLocation("backrooms_terralith_compat", "almond_forest")
     );
 
     public AlmondForestRegion(ResourceLocation name, int weight) {
