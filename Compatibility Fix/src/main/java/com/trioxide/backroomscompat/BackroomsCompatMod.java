@@ -9,6 +9,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import terrablender.api.Regions;
+import terrablender.api.SurfaceRuleManager;
 
 @Mod(BackroomsCompatMod.MOD_ID)
 public class BackroomsCompatMod {
@@ -25,14 +26,20 @@ public class BackroomsCompatMod {
 
     private void commonSetup(final FMLCommonSetupEvent event) {
         event.enqueueWork(() -> {
-            // Register our region with TerraBlender
-            // Weight of 2 makes it rare but findable
+            // Register our region with TerraBlender (weight of 2 = rare but findable)
             Regions.register(new AlmondForestRegion(
                 new ResourceLocation(MOD_ID, "almond_forest"),
                 2
             ));
 
-            LOGGER.info("Registered Almond Forest region with TerraBlender");
+            // Register surface rules for proper terrain generation
+            SurfaceRuleManager.addSurfaceRules(
+                SurfaceRuleManager.RuleCategory.OVERWORLD,
+                MOD_ID,
+                AlmondForestSurfaceRules.makeRules()
+            );
+
+            LOGGER.info("Registered Almond Forest region and surface rules with TerraBlender");
         });
     }
 }
