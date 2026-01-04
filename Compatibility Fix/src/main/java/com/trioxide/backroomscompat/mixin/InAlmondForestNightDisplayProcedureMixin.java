@@ -5,27 +5,25 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.ModifyArg;
 
-/**
- * Mixin to make the display procedure also recognize our biome
- */
 @Mixin(targets = "net.whyantique.faithfulbackrooms.procedures.InAlmondForestNightDisplayProcedure", remap = false)
 public class InAlmondForestNightDisplayProcedureMixin {
 
     private static final ResourceLocation OUR_BIOME = new ResourceLocation("backrooms_terralith_compat", "almond_forest");
     private static final ResourceLocation ORIGINAL_BIOME = new ResourceLocation("faithfulbackrooms", "almond_forest");
 
-    /**
-     * Intercept ResourceLocation comparisons and also match our biome
-     */
     @ModifyArg(
         method = "execute",
         at = @At(value = "INVOKE", target = "Lnet/minecraft/resources/ResourceLocation;equals(Ljava/lang/Object;)Z"),
         index = 0,
-        require = 0
+        require = 0,
+        remap = false
     )
     private static Object modifyBiomeCheck(Object original) {
-        if (original instanceof ResourceLocation rl && rl.equals(OUR_BIOME)) {
-            return ORIGINAL_BIOME;
+        if (original instanceof ResourceLocation) {
+            ResourceLocation rl = (ResourceLocation) original;
+            if (rl.equals(OUR_BIOME)) {
+                return ORIGINAL_BIOME;
+            }
         }
         return original;
     }
