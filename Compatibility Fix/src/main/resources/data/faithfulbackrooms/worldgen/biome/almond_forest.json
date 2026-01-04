@@ -76,7 +76,7 @@
       "minecraft:spring_lava"
     ],
     [
-      "faithfulbackrooms:almond_forest_tree",
+      "backrooms_terralith_compat:almond_tree",
       "minecraft:forest_flowers",
       "minecraft:patch_grass_jungle",
       "minecraft:patch_tall_grass",
