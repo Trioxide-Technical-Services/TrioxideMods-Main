@@ -1,7 +1,7 @@
 {
   "has_precipitation": true,
-  "temperature": 0.7,
-  "downfall": 0.8,
+  "temperature": 0.5,
+  "downfall": 0.5,
   "effects": {
     "foliage_color": 10083514,
     "grass_color": 10083514,
@@ -76,13 +76,12 @@
       "minecraft:spring_lava"
     ],
     [
-      "minecraft:trees_flower_forest",
-      "minecraft:flower_flower_forest",
-      "minecraft:patch_grass_forest",
+      "faithfulbackrooms:almond_forest_tree",
+      "minecraft:forest_flowers",
+      "minecraft:patch_grass_jungle",
+      "minecraft:patch_tall_grass",
       "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:red_mushroom_normal"
     ],
     [
       "minecraft:freeze_top_layer"
