@@ -1,5 +1,6 @@
 package com.trioxide.backroomscompat.mixin;
 
+import com.trioxide.backroomscompat.client.AlmondForestFogHandler;
 import net.minecraft.core.Holder;
 import net.minecraft.resources.ResourceLocation;
 import net.whyantique.faithfulbackrooms.procedures.InAlmondForestNightDisplayProcedure;
@@ -18,6 +19,7 @@ public class InAlmondForestNightDisplayProcedureMixin {
         require = 0
     )
     private static boolean redirectBiomeCheck(Holder<?> holder, ResourceLocation location) {
-        return holder.is(location) || holder.is(OUR_BIOME);
+        // Check both biomes OR if we're still fading out
+        return holder.is(location) || holder.is(OUR_BIOME) || AlmondForestFogHandler.shouldApplyFogEffects();
     }
 }
