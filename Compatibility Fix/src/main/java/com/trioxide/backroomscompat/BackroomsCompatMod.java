@@ -26,11 +26,10 @@ public class BackroomsCompatMod {
 
     private void commonSetup(final FMLCommonSetupEvent event) {
         event.enqueueWork(() -> {
-            // Register our region with TerraBlender
-            // Weight of 5 makes it relatively rare but findable
+            // Register our region with TerraBlender (weight of 2 = rare but findable)
             Regions.register(new AlmondForestRegion(
                 new ResourceLocation(MOD_ID, "almond_forest"),
-                5
+                2
             ));
 
             // Register surface rules for proper terrain generation
@@ -40,7 +39,7 @@ public class BackroomsCompatMod {
                 AlmondForestSurfaceRules.makeRules()
             );
 
-            LOGGER.info("Registered Almond Forest region with TerraBlender");
+            LOGGER.info("Registered Almond Forest region and surface rules with TerraBlender");
         });
     }
 }

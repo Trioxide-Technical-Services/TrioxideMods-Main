@@ -1,6 +1,0 @@
-{
-  "type": "forge:remove_features",
-  "biomes": "faithfulbackrooms:almond_forest",
-  "features": "#terralith:surface_features",
-  "steps": ["raw_generation", "local_modifications", "underground_structures", "surface_structures"]
-}

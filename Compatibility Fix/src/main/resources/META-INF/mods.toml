@@ -1,43 +1,37 @@
 modLoader="javafml"
-loaderVersion="[47,)"
-license="MIT"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+issueTrackerURL="https://github.com/LozoTrioxide/TrioxideMods-Main/issues"
 
 [[mods]]
-modId="backrooms_terralith_compat"
-version="${file.jarVersion}"
-displayName="Backrooms-Terralith Compatibility Fix"
-authors="TrioxideMods"
-description='''
-Fixes compatibility issues between Faithful Backrooms and Terralith mods.
-Uses TerraBlender to properly inject the Almond Forest biome into the
-overworld without conflicting with other worldgen mods.
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="${mod_authors}"
+description='''${mod_description}'''
 
-The Almond Forest will spawn naturally in temperate, inland areas.
-Sleep in the Almond Forest to enter the Backrooms dimension!
-'''
-
-[[dependencies.backrooms_terralith_compat]]
+[[dependencies.${mod_id}]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.20.1,1.21)"
+    versionRange="${minecraft_version_range}"
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.backrooms_terralith_compat]]
+[[dependencies.${mod_id}]]
     modId="forge"
     mandatory=true
-    versionRange="[47,)"
+    versionRange="${forge_version_range}"
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.backrooms_terralith_compat]]
+[[dependencies.${mod_id}]]
     modId="terrablender"
     mandatory=true
-    versionRange="[3.0.0.167,)"
+    versionRange="${terrablender_version_range}"
     ordering="AFTER"
     side="BOTH"
 
-[[dependencies.backrooms_terralith_compat]]
+[[dependencies.${mod_id}]]
     modId="faithfulbackrooms"
     mandatory=true
     versionRange="[0,)"

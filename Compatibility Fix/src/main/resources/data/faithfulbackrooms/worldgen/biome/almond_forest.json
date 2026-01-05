@@ -3,12 +3,12 @@
   "temperature": 0.5,
   "downfall": 0.5,
   "effects": {
-    "foliage_color": 10083514,
-    "grass_color": 10083514,
-    "sky_color": 8103167,
+    "foliage_color": -6387858,
+    "grass_color": -5340069,
+    "sky_color": 7972607,
     "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011,
+    "water_color": -9396805,
+    "water_fog_color": -8996689,
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000,
@@ -27,9 +27,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "carvers": {
-    "air": []
-  },
+  "carvers": {},
   "features": [
     [],
     [],
@@ -41,13 +39,10 @@
     [],
     [],
     [
-      "faithfulbackrooms:almond_forest_tree",
+      "backrooms_terralith_compat:almond_tree",
       "minecraft:forest_flowers",
-      "minecraft:patch_grass_jungle",
-      "minecraft:patch_tall_grass"
+      "minecraft:patch_grass_jungle"
     ],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    []
   ]
 }

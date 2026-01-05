@@ -1,44 +1,38 @@
 package com.trioxide.backroomscompat;
 
+import net.minecraft.resources.ResourceKey;
 import net.minecraft.resources.ResourceLocation;
+import net.minecraft.world.level.biome.Biome;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.levelgen.SurfaceRules;
+import net.minecraft.core.registries.Registries;
 
 public class AlmondForestSurfaceRules {
 
-    private static final SurfaceRules.RuleSource GRASS_BLOCK = SurfaceRules.state(
-        Blocks.GRASS_BLOCK.defaultBlockState()
-    );
-    private static final SurfaceRules.RuleSource DIRT = SurfaceRules.state(
-        Blocks.DIRT.defaultBlockState()
+    public static final ResourceKey<Biome> ALMOND_FOREST = ResourceKey.create(
+        Registries.BIOME,
+        new ResourceLocation("backrooms_terralith_compat", "almond_forest")
     );
 
     public static SurfaceRules.RuleSource makeRules() {
-        // Create condition for Almond Forest biome
-        SurfaceRules.ConditionSource isAlmondForest = SurfaceRules.isBiome(
-            AlmondForestRegion.ALMOND_FOREST
-        );
-
-        // Surface rules for Almond Forest:
-        // - Grass block on top
-        // - Dirt underneath
-        SurfaceRules.RuleSource almondForestSurface = SurfaceRules.sequence(
-            // Floor surface (top block)
+        // Surface rule: When in Almond Forest biome, use grass/dirt surface
+        SurfaceRules.RuleSource grassSurface = SurfaceRules.sequence(
+            // On the floor (top surface), place grass block
             SurfaceRules.ifTrue(
                 SurfaceRules.ON_FLOOR,
-                SurfaceRules.ifTrue(
-                    SurfaceRules.waterBlockCheck(-1, 0),
-                    GRASS_BLOCK
-                )
+                SurfaceRules.state(Blocks.GRASS_BLOCK.defaultBlockState())
             ),
-            // Under floor (subsurface dirt)
+            // Under the floor (shallow underground), place dirt
             SurfaceRules.ifTrue(
                 SurfaceRules.UNDER_FLOOR,
-                DIRT
+                SurfaceRules.state(Blocks.DIRT.defaultBlockState())
             )
         );
 
-        // Apply rules only to Almond Forest biome
-        return SurfaceRules.ifTrue(isAlmondForest, almondForestSurface);
+        // Only apply these rules when in the Almond Forest biome
+        return SurfaceRules.ifTrue(
+            SurfaceRules.isBiome(ALMOND_FOREST),
+            grassSurface
+        );
     }
 }
