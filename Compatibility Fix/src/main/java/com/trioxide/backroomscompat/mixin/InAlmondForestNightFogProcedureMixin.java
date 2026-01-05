@@ -12,9 +12,10 @@ public class InAlmondForestNightFogProcedureMixin {
 
     private static final ResourceLocation OUR_BIOME = new ResourceLocation("backrooms_terralith_compat", "almond_forest");
 
+    // Target using SRG name m_203373_ for Holder.is()
     @Redirect(
         method = "execute(Lnet/minecraftforge/eventbus/api/Event;Lnet/minecraft/world/level/LevelAccessor;DDD)V",
-        at = @At(value = "INVOKE", target = "Lnet/minecraft/core/Holder;is(Lnet/minecraft/resources/ResourceLocation;)Z"),
+        at = @At(value = "INVOKE", target = "Lnet/minecraft/core/Holder;m_203373_(Lnet/minecraft/resources/ResourceLocation;)Z", remap = false),
         require = 0
     )
     private static boolean redirectBiomeCheck(Holder<?> holder, ResourceLocation location) {

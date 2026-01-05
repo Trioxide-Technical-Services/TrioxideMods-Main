@@ -14,7 +14,7 @@ public class InAlmondForestNightFogColorProcedureMixin {
 
     @Redirect(
         method = "execute",
-        at = @At(value = "INVOKE", target = "Lnet/minecraft/core/Holder;is(Lnet/minecraft/resources/ResourceLocation;)Z"),
+        at = @At(value = "INVOKE", target = "Lnet/minecraft/core/Holder;m_203373_(Lnet/minecraft/resources/ResourceLocation;)Z", remap = false),
         require = 0
     )
     private static boolean redirectBiomeCheck(Holder<?> holder, ResourceLocation location) {
