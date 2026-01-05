@@ -16,6 +16,7 @@ import net.minecraftforge.fml.common.Mod;
 /**
  * Client-side handler for Almond Forest fog fade effects.
  * Tracks biome transitions and provides smooth fog fade-out when leaving the biome.
+ * Also enhances fog intensity when inside the biome for a more atmospheric effect.
  */
 @Mod.EventBusSubscriber(modid = BackroomsCompatMod.MOD_ID, value = Dist.CLIENT)
 public class AlmondForestFogHandler {
@@ -25,6 +26,10 @@ public class AlmondForestFogHandler {
 
     // Fade duration in ticks (20 ticks = 1 second, 60 ticks = 3 seconds for smooth fade)
     private static final int FADE_DURATION_TICKS = 60;
+
+    // Fog distance multiplier when fully inside the biome (lower = denser/thicker fog)
+    // 0.4 means fog starts at 40% of normal distance, making it significantly thicker
+    private static final float FOG_DENSITY_MULTIPLIER = 0.4f;
 
     // Current fog intensity (1.0 = full fog, 0.0 = no fog)
     private static float fogIntensity = 0.0f;
@@ -99,23 +104,32 @@ public class AlmondForestFogHandler {
     /**
      * Modifies fog density based on our fade intensity.
      * This event is fired when fog is being rendered.
+     * When inside biome: makes fog denser (closer)
+     * When fading out: gradually pushes fog away
      */
     @SubscribeEvent
     public static void onRenderFog(ViewportEvent.RenderFog event) {
-        // Only modify if we're in a fade-out state (not fully in biome but still have fog)
-        if (fogIntensity > 0.01f && fogIntensity < 0.99f) {
+        // Only modify if we have any fog effect active
+        if (fogIntensity > 0.01f) {
             // Get current fog distances
             float nearPlane = event.getNearPlaneDistance();
             float farPlane = event.getFarPlaneDistance();
 
-            // During fade-out, push the fog further away to reduce visibility
-            // At fogIntensity = 1.0, keep original distances
-            // At fogIntensity = 0.0, push fog far away (effectively invisible)
-            float inverseFade = 1.0f - fogIntensity;
-            float fadeMultiplier = 1.0f + (inverseFade * 10.0f); // Multiply distance by up to 11x
+            // Calculate the effective multiplier based on fog intensity
+            // At fogIntensity = 1.0 (fully in biome): use FOG_DENSITY_MULTIPLIER (denser fog)
+            // At fogIntensity = 0.0 (fully out): push fog far away (invisible)
+            // The transition interpolates between these states
 
-            event.setNearPlaneDistance(nearPlane * fadeMultiplier);
-            event.setFarPlaneDistance(farPlane * fadeMultiplier);
+            // When fully in biome, make fog denser by reducing distance
+            // When fading out, increase distance to push fog away
+            float denseMultiplier = FOG_DENSITY_MULTIPLIER; // Makes fog closer/thicker when in biome
+            float fadeAwayMultiplier = 15.0f; // How far to push fog when leaving
+
+            // Interpolate: at intensity 1.0 use dense, at intensity 0.0 use far away
+            float effectiveMultiplier = denseMultiplier + (1.0f - fogIntensity) * (fadeAwayMultiplier - denseMultiplier);
+
+            event.setNearPlaneDistance(nearPlane * effectiveMultiplier);
+            event.setFarPlaneDistance(farPlane * effectiveMultiplier);
             event.setCanceled(true);
         }
     }
