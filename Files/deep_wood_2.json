@@ -1,0 +1,44 @@
+{
+  "temperature": 0.5,
+  "downfall": 0.0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 4276545,
+    "fog_color": 6774092,
+    "water_color": 4276545,
+    "water_fog_color": 4276545,
+    "grass_color": 5263440,
+    "foliage_color": 4934475,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 4000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    }
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "thewoodlands:wood_person",
+        "weight": 150,
+        "minCount": 2,
+        "maxCount": 5
+      },
+      {
+        "type": "thewoodlands:spider_boss",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": [],
+    "underground_water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": { "air": [] },
+  "features": [[], [], [], [], [], [], [], [], [], []]
+}

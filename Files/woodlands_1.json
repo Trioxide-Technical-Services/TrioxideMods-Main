@@ -1,0 +1,11 @@
+{
+  "type": "thewoodlands:woodlands_1",
+  "generator": {
+    "type": "thewoodlands:woodlands",
+    "layer": 1,
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "thewoodlands:dark_forest_1"
+    }
+  }
+}

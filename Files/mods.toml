@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/yourname/thewoodlands/issues"
+
+[[mods]]
+    modId="thewoodlands"
+    version="1.0.0"
+    displayName="The Woodlands"
+    description='''
+        You have entered the wood.
+        The Wood People are watching.
+        You won't come back.
+    '''
+    logoFile="thewoodlands.png"
+    authors="You"
+
+[[dependencies.thewoodlands]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.thewoodlands]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
