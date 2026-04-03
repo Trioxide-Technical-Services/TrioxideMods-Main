@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/asphaltslab",
-  "textures": {
-    "all": "faithfulbackrooms:block/asphaltbricks",
-    "particle": "faithfulbackrooms:block/asphaltbricks",
-    "0": "faithfulbackrooms:block/asphaltbricks"
-  },
-  "render_type": "solid"
-}

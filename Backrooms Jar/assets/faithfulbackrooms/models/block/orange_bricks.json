@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/orangebricks",
-    "particle": "faithfulbackrooms:block/orangebricks"
-  },
-  "render_type": "solid"
-}

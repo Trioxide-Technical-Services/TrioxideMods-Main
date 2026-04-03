@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/ceilingfankiur",
-  "textures": {
-    "all": "faithfulbackrooms:block/ceilingfankiur",
-    "particle": "faithfulbackrooms:block/ceilingfankiur",
-    "0": "faithfulbackrooms:block/ceilingfankiur"
-  },
-  "render_type": "solid"
-}

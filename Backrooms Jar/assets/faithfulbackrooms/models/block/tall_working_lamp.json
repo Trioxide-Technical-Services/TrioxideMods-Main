@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/tallworkinglamp",
-  "textures": {
-    "all": "faithfulbackrooms:block/workinglamptall",
-    "particle": "faithfulbackrooms:block/workinglamptall",
-    "0": "faithfulbackrooms:block/workinglamptall"
-  },
-  "render_type": "translucent"
-}

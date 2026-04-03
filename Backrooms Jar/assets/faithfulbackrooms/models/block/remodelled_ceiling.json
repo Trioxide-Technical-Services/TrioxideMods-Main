@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/newceiling2",
-    "particle": "faithfulbackrooms:block/newceiling2"
-  },
-  "render_type": "solid"
-}

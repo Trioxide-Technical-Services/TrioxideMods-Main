@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/cabinetkiurvar",
-  "textures": {
-    "all": "faithfulbackrooms:block/cabinetkiur",
-    "particle": "faithfulbackrooms:block/cabinetkiur",
-    "0": "faithfulbackrooms:block/cabinetkiur2"
-  },
-  "render_type": "solid"
-}

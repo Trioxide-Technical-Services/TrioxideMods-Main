@@ -1,9 +1,0 @@
-{
-  "parent": "block/door_top_right",
-  "textures": {
-    "particle": "faithfulbackrooms:block/almond_door_bottom",
-    "bottom": "faithfulbackrooms:block/almond_door_bottom",
-    "top": "faithfulbackrooms:block/almond_door_top"
-  },
-  "render_type": "cutout"
-}

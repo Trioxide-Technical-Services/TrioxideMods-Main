@@ -1,9 +1,0 @@
-{
-  "parent": "block/door_top_right_open",
-  "textures": {
-    "particle": "faithfulbackrooms:block/slidingdoorbottom",
-    "bottom": "faithfulbackrooms:block/slidingdoorbottom",
-    "top": "faithfulbackrooms:block/slidingdoortop"
-  },
-  "render_type": "translucent"
-}

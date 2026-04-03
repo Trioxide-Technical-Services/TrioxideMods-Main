@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "faithfulbackrooms:level_8656_biome",
-  "features": "faithfulbackrooms:level_8656_cacti",
-  "step": "vegetal_decoration"
-}

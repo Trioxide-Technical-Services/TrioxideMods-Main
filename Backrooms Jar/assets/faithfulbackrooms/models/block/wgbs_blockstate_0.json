@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/whiteglassbroken2",
-    "particle": "faithfulbackrooms:block/whiteglassbroken"
-  },
-  "render_type": "translucent"
-}

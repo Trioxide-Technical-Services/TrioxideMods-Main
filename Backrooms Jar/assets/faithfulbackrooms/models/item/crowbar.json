@@ -1,7 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/crowbar",
-  "textures": {
-    "0": "faithfulbackrooms:block/crowbar",
-    "particle": "faithfulbackrooms:item/crowbar"
-  }
-}

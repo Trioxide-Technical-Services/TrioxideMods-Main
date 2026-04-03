@@ -1,6 +1,0 @@
-{
-  "parent": "faithfulbackrooms:displaysettings/arcademachine1.geo",
-  "textures": {
-    "particle": "faithfulbackrooms:block/arcademachineanim"
-  }
-}

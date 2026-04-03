@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/industrialpowerpipe",
-  "textures": {
-    "all": "faithfulbackrooms:block/industrialpowerpipe",
-    "particle": "faithfulbackrooms:block/industrialpowerpipe",
-    "0": "faithfulbackrooms:block/industrialpowerpipe"
-  },
-  "render_type": "solid"
-}

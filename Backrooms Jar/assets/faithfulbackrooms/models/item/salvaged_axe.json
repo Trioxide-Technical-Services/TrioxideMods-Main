@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/salvagedaxe1",
-  "textures": {
-    "0": "minecraft:block/blackstone",
-    "1": "minecraft:block/iron_block",
-    "2": "faithfulbackrooms:block/salvagedaxe1",
-    "particle": "minecraft:item/salmon"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/plasticleaves",
-    "particle": "faithfulbackrooms:block/plasticleaves"
-  },
-  "render_type": "cutout"
-}

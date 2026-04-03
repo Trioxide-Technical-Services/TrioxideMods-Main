@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/1pipe1",
-  "textures": {
-    "all": "faithfulbackrooms:block/rustypipecorner",
-    "particle": "faithfulbackrooms:block/rustypipecorner",
-    "0": "faithfulbackrooms:block/rustypipecorner"
-  },
-  "render_type": "solid"
-}

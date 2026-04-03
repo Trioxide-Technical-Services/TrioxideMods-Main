@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/glassshards3",
-  "textures": {
-    "all": "minecraft:block/white_stained_glass",
-    "particle": "minecraft:block/white_stained_glass",
-    "0": "minecraft:block/white_stained_glass"
-  },
-  "render_type": "translucent"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/drinkfridgetop",
-  "textures": {
-    "all": "faithfulbackrooms:block/drinkfridge",
-    "particle": "faithfulbackrooms:block/drinkfridge",
-    "0": "faithfulbackrooms:block/drinkfridge"
-  },
-  "render_type": "translucent"
-}

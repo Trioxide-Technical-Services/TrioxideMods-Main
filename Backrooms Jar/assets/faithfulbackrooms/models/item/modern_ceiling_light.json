@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "faithfulbackrooms:item/modernlight"
-  },
-  "render_type": "translucent"
-}

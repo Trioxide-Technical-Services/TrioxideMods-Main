@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "minecraft:block/light_blue_shulker_box",
-    "particle": "faithfulbackrooms:block/redglitch"
-  },
-  "render_type": "solid"
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "minecraft:block/quartz_bricks",
-    "particle": "minecraft:block/quartz_bricks"
-  },
-  "render_type": "solid"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/scrap3",
-  "textures": {
-    "all": "faithfulbackrooms:block/almond_stripped_log",
-    "particle": "faithfulbackrooms:block/almond_stripped_log",
-    "0": "faithfulbackrooms:block/almond_log"
-  },
-  "render_type": "solid"
-}

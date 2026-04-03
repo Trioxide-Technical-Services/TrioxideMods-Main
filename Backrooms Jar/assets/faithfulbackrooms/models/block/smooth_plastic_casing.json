@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/smooth_plastic_casing",
-    "particle": "faithfulbackrooms:block/smooth_plastic_casing"
-  },
-  "render_type": "solid"
-}

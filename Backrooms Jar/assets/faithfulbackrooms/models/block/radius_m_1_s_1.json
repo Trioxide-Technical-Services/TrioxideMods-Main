@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "minecraft:block/pumpkin_top",
-    "particle": "minecraft:block/pumpkin_top"
-  },
-  "render_type": "solid"
-}

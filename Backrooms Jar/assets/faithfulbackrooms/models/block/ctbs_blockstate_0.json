@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/cleaningtrolleyempty",
-  "textures": {
-    "all": "faithfulbackrooms:block/trolleyempty",
-    "particle": "faithfulbackrooms:block/trolley2",
-    "0": "faithfulbackrooms:block/trolleyempty"
-  },
-  "render_type": "solid"
-}

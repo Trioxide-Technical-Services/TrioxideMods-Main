@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/possystemopen",
-  "textures": {
-    "all": "faithfulbackrooms:block/possystem",
-    "particle": "faithfulbackrooms:block/possystem",
-    "0": "faithfulbackrooms:block/possystem"
-  },
-  "render_type": "solid"
-}

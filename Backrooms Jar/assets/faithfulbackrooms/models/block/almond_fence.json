@@ -1,8 +1,0 @@
-{
-  "parent": "block/fence_side",
-  "textures": {
-    "texture": "faithfulbackrooms:block/almond_planks_1",
-    "particle": "faithfulbackrooms:block/almond_planks_1"
-  },
-  "render_type": "solid"
-}

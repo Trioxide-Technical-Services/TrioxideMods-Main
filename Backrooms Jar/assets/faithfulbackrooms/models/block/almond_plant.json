@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "faithfulbackrooms:block/almond_harvestable",
-    "particle": "faithfulbackrooms:block/almond_harvestable"
-  },
-  "render_type": "cutout"
-}

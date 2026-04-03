@@ -1,8 +1,0 @@
-{
-  "parent": "block/button",
-  "textures": {
-    "particle": "minecraft:block/daylight_detector_side",
-    "texture": "minecraft:block/daylight_detector_side"
-  },
-  "render_type": "solid"
-}

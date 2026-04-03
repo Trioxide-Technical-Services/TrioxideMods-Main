@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/arcademachine1bottom",
-  "textures": {
-    "all": "faithfulbackrooms:block/arcade1",
-    "particle": "faithfulbackrooms:block/arcademachineanim",
-    "0": "faithfulbackrooms:block/arcade1"
-  },
-  "render_type": "cutout"
-}

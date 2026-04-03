@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/ceilinghanginglight",
-  "textures": {
-    "all": "faithfulbackrooms:block/ceilinghanginglight",
-    "particle": "faithfulbackrooms:block/ceilinghanginglight",
-    "0": "faithfulbackrooms:block/ceilinghanginglight"
-  },
-  "render_type": "solid"
-}

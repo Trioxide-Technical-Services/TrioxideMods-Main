@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/wheeliebin",
-  "textures": {
-    "all": "faithfulbackrooms:block/wheeliebin",
-    "particle": "faithfulbackrooms:block/wheeliebin",
-    "0": "faithfulbackrooms:block/wheeliebin"
-  },
-  "render_type": "solid"
-}

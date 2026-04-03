@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/smokedetector",
-  "textures": {
-    "all": "faithfulbackrooms:block/smokedetector",
-    "particle": "faithfulbackrooms:block/smokedetector",
-    "0": "faithfulbackrooms:block/smokedetector"
-  },
-  "render_type": "solid"
-}

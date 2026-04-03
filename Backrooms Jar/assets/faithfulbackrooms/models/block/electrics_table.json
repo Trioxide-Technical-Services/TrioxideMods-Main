@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/electricstationtop",
-  "textures": {
-    "all": "faithfulbackrooms:block/electronicstable",
-    "particle": "faithfulbackrooms:block/electronicstable",
-    "0": "faithfulbackrooms:block/electronicstable"
-  },
-  "render_type": "cutout"
-}

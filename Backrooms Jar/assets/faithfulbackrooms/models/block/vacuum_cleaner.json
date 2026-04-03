@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/hoover",
-  "textures": {
-    "all": "faithfulbackrooms:block/vacuum1",
-    "particle": "faithfulbackrooms:block/vacuum1",
-    "0": "faithfulbackrooms:block/vacuum1"
-  },
-  "render_type": "solid"
-}

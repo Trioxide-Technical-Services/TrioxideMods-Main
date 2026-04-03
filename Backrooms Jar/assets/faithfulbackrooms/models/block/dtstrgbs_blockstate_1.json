@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/dataserverflat3",
-  "textures": {
-    "all": "faithfulbackrooms:block/dataserverflat3",
-    "particle": "faithfulbackrooms:block/dataserverflat1",
-    "0": "faithfulbackrooms:block/dataserverflat3"
-  },
-  "render_type": "solid"
-}

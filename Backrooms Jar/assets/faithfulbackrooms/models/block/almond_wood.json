@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/almond_log",
-    "particle": "faithfulbackrooms:block/almond_log"
-  },
-  "render_type": "solid"
-}

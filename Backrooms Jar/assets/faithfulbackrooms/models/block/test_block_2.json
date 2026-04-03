@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "minecraft:block/light_blue_shulker_box",
-    "particle": "minecraft:block/light_blue_shulker_box"
-  },
-  "render_type": "solid"
-}

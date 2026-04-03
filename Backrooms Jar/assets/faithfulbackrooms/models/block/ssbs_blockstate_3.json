@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/itemshelf4",
-  "textures": {
-    "all": "faithfulbackrooms:block/itemshelf5",
-    "particle": "faithfulbackrooms:block/almond_stripped_log",
-    "0": "faithfulbackrooms:block/itemshelf4"
-  },
-  "render_type": "cutout_mipped"
-}

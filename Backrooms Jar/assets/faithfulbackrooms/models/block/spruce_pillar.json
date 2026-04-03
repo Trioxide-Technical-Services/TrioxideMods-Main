@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/spruce_pillar",
-  "textures": {
-    "all": "minecraft:block/spruce_log",
-    "particle": "minecraft:block/spruce_log",
-    "0": "minecraft:block/spruce_log"
-  },
-  "render_type": "solid"
-}

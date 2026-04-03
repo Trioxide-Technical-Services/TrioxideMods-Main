@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/foldedchairfolded",
-  "textures": {
-    "all": "faithfulbackrooms:block/foldedchair",
-    "particle": "faithfulbackrooms:block/foldedchair",
-    "0": "faithfulbackrooms:block/foldedchair"
-  },
-  "render_type": "solid"
-}

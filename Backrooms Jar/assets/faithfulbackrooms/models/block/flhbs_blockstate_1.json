@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/filth3",
-  "textures": {
-    "all": "faithfulbackrooms:block/filth2",
-    "particle": "faithfulbackrooms:block/filth1",
-    "0": "faithfulbackrooms:block/filth2"
-  },
-  "render_type": "solid"
-}

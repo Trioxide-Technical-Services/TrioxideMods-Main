@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/boiler",
-  "textures": {
-    "all": "faithfulbackrooms:block/boiler",
-    "particle": "faithfulbackrooms:block/boiler",
-    "0": "faithfulbackrooms:block/boiler"
-  },
-  "render_type": "solid"
-}

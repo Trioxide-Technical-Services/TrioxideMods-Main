@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/industrialpoweroutlet",
-  "textures": {
-    "all": "faithfulbackrooms:block/industrialpoweroutlet",
-    "particle": "faithfulbackrooms:block/industrialpoweroutlet",
-    "0": "faithfulbackrooms:block/industrialpoweroutlet"
-  },
-  "render_type": "solid"
-}

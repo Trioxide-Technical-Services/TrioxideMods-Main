@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/woodenpalletrack5",
-  "textures": {
-    "all": "minecraft:block/chiseled_bookshelf_side",
-    "particle": "minecraft:block/chiseled_bookshelf_side",
-    "1": "minecraft:block/oak_planks"
-  },
-  "render_type": "solid"
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "minecraft:block/tnt_bottom",
-    "particle": "minecraft:block/tnt_bottom"
-  },
-  "render_type": "solid"
-}

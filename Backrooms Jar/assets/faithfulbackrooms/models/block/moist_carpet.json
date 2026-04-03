@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/kiurlevel7carpet",
-    "particle": "faithfulbackrooms:block/kiurlevel7carpet"
-  },
-  "render_type": "solid"
-}

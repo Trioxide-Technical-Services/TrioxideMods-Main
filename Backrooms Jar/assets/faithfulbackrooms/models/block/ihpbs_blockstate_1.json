@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/industrialhighplumbing3",
-  "textures": {
-    "all": "faithfulbackrooms:block/industrialgasplumbing",
-    "particle": "faithfulbackrooms:block/industrialgasplumbing",
-    "0": "faithfulbackrooms:block/industrialgasplumbing"
-  },
-  "render_type": "solid"
-}

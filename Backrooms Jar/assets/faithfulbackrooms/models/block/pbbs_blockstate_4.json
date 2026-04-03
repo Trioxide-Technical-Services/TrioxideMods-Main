@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/palebricksrightup",
-    "particle": "faithfulbackrooms:block/texture_2"
-  },
-  "render_type": "solid"
-}

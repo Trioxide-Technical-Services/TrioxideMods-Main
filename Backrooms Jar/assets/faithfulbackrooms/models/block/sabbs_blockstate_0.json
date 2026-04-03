@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/smalladsign2",
-  "textures": {
-    "all": "faithfulbackrooms:block/smalladsign2",
-    "particle": "faithfulbackrooms:block/smalladsign1",
-    "0": "faithfulbackrooms:block/smalladsign2"
-  },
-  "render_type": "solid"
-}

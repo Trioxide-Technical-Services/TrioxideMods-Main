@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/opencrate",
-  "textures": {
-    "all": "faithfulbackrooms:block/crate1",
-    "particle": "faithfulbackrooms:block/crate1",
-    "0": "faithfulbackrooms:block/crate1"
-  },
-  "render_type": "solid"
-}

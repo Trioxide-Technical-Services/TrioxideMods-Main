@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/fusekiurclosed",
-  "textures": {
-    "all": "faithfulbackrooms:block/fusetexture",
-    "particle": "faithfulbackrooms:block/fusetexture",
-    "1": "faithfulbackrooms:block/fusetexture"
-  },
-  "render_type": "solid"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/officehalfslab1",
-  "textures": {
-    "all": "faithfulbackrooms:block/smooth_plastic_casing",
-    "particle": "faithfulbackrooms:block/smooth_plastic_casing",
-    "0": "faithfulbackrooms:block/smooth_plastic_casing"
-  },
-  "render_type": "solid"
-}

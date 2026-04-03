@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/japanesewall4",
-    "particle": "faithfulbackrooms:block/japanesewall4"
-  },
-  "render_type": "translucent"
-}

@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "faithfulbackrooms:japanese_forest",
-  "features": "faithfulbackrooms:level_178_grass",
-  "step": "vegetal_decoration"
-}

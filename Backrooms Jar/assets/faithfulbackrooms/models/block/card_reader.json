@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/cardreader",
-  "textures": {
-    "all": "faithfulbackrooms:block/cardreader",
-    "particle": "faithfulbackrooms:block/cardreader",
-    "0": "faithfulbackrooms:block/cardreader"
-  },
-  "render_type": "solid"
-}

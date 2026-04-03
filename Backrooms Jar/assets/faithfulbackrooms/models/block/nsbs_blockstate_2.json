@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/numberstation3",
-  "textures": {
-    "all": "faithfulbackrooms:block/numberstation",
-    "particle": "faithfulbackrooms:block/numberstation",
-    "0": "faithfulbackrooms:block/numberstation"
-  },
-  "render_type": "solid"
-}

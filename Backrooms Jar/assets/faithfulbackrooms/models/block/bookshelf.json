@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/bookshelfempty",
-  "textures": {
-    "all": "faithfulbackrooms:block/bookshelftexture",
-    "particle": "faithfulbackrooms:block/bookshelftexture",
-    "0": "faithfulbackrooms:block/bookshelftexture"
-  },
-  "render_type": "cutout_mipped"
-}

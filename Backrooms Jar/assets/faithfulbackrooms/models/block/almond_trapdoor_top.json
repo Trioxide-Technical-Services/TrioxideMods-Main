@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_orientable_trapdoor_top",
-  "textures": {
-    "texture": "faithfulbackrooms:block/almond_trapdoor",
-    "particle": "faithfulbackrooms:block/almond_trapdoor"
-  },
-  "render_type": "cutout"
-}

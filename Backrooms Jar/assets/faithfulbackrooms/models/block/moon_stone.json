@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/moon_stone",
-    "particle": "faithfulbackrooms:block/moon_stone"
-  },
-  "render_type": "solid"
-}

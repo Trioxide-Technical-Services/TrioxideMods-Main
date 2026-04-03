@@ -1,8 +1,0 @@
-{
-  "parent": "block/pressure_plate_down",
-  "textures": {
-    "particle": "faithfulbackrooms:block/almond_planks_1",
-    "texture": "faithfulbackrooms:block/almond_planks_1"
-  },
-  "render_type": "solid"
-}

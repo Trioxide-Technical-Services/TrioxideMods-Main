@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "faithfulbackrooms:almond_forest",
-  "features": "faithfulbackrooms:almond_biome_features",
-  "step": "surface_structures"
-}

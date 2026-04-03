@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/oldchair2",
-  "textures": {
-    "all": "faithfulbackrooms:block/oldchair2",
-    "particle": "faithfulbackrooms:block/oldchair1",
-    "0": "faithfulbackrooms:block/oldchair2"
-  },
-  "render_type": "solid"
-}

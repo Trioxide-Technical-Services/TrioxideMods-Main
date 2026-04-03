@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/cctv2",
-  "textures": {
-    "all": "faithfulbackrooms:block/cctv2",
-    "particle": "faithfulbackrooms:block/cctv2",
-    "0": "faithfulbackrooms:block/cctv2"
-  },
-  "render_type": "solid"
-}

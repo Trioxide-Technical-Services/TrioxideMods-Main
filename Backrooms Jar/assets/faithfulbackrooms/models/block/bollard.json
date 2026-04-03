@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/bollard",
-  "textures": {
-    "all": "faithfulbackrooms:block/bollard",
-    "particle": "faithfulbackrooms:block/bollard",
-    "0": "faithfulbackrooms:block/bollard"
-  },
-  "render_type": "cutout_mipped"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/officechair",
-  "textures": {
-    "all": "faithfulbackrooms:block/officechair",
-    "particle": "faithfulbackrooms:block/officechair",
-    "0": "faithfulbackrooms:block/officechair"
-  },
-  "render_type": "solid"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/metalcontainer3",
-  "textures": {
-    "all": "faithfulbackrooms:block/metalcontainer1",
-    "particle": "faithfulbackrooms:block/metalcontainer",
-    "0": "faithfulbackrooms:block/metalcontainer1"
-  },
-  "render_type": "cutout_mipped"
-}

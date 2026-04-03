@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "faithfulbackrooms:block/hotelwallpaper",
-    "particle": "faithfulbackrooms:block/hotelwallpaper"
-  },
-  "render_type": "solid"
-}

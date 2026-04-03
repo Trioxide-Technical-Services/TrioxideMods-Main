@@ -1,9 +1,0 @@
-{
-  "parent": "faithfulbackrooms:custom/modernceilingtilefallen",
-  "textures": {
-    "all": "faithfulbackrooms:block/l4ceiling",
-    "particle": "faithfulbackrooms:block/l4ceiling",
-    "0": "faithfulbackrooms:block/ceilingtilekiur"
-  },
-  "render_type": "solid"
-}
